@@ -1,6 +1,6 @@
 {
   "name": "angular-stomp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/wishbear/AngularStomp",
   "authors": [
     "Glenn Tarcea"
@@ -19,5 +19,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "stomp-websocket": "2.3.0"
+  }
 }
